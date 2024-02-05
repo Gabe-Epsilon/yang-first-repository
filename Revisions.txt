@@ -1,0 +1,29 @@
+
+Revisions to Yang's document.
+1
+Changed language to address the audience.
+2
+Unsure if ~ is needed. May be a Mac issue.
+Reformatted text, added puntuation.
+Added to ls command.
+
+2.2
+Removed $ from $ git init.
+
+3
+Minor edits.
+4.
+Minor edits.
+5
+Reformatted text. 
+Reworded second paragraph.
+6
+Changed my to the.
+7.2
+Removed my.
+
+
+General things I edited.
+Formatted text and lines to make them the same.
+Cropped and resized the last picture.
+Changed the wording from what you did, to telling the audience what to do.
